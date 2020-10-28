@@ -1,0 +1,14 @@
+JavaScript: Primeiros passos com a linguagem
+
+Uma boa pratica de nomear nome de variaveis e arquivo é o  metodo "camelcase" sendo que inicia uma palavra em minusculo e as demais serão em maíusculo, exemplo: descricaoPrincipalDaPagina.css
+
+Outra boa pratica, é mander um padrão qaundo está criando variáveis, exemplo, sempre deixar tudo iniciando em minusculo.
+
+No JavaScript para fazer as divisoes de casas decimais temos que usar o ponto(.), pois a virgula(,) tem outro sentido no JS, lá funciona fazendo um espaço coisas.
+
+Para inserir um variável junto com um texto, tem que ser usado entre crases(`), ao inves de aspas(").
+
+
+
+
+
